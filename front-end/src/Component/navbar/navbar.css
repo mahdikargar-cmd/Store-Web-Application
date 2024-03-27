@@ -1,0 +1,18 @@
+.navbar {
+
+    box-shadow: 0 1px 3px -2px black;
+}
+
+.nav-login-cart button{
+    border: 2px solid #7a7a7a;
+
+}
+.nav-menu-visible{
+    margin: 10px 0;
+    display: inline-block;
+    z-index: 99;
+    background-color: #171717;
+    color: white;
+    height: 100vh;
+    width: 100%;
+    padding:40px 0;}
